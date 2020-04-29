@@ -57,6 +57,20 @@ I used the Overpass font for my entire system (including gtk applications). **Po
 ```
 yay -S otf-overpass
 ```
+## List of applications
+- Terminal: [urxvt](https://wiki.archlinux.org/index.php/rxvt-unicode)
+- CLI File Manager: [ranger](https://wiki.archlinux.org/index.php/Ranger)
+- GUI File Manager: [thunar](https://wiki.archlinux.org/index.php/Thunar)
+- Browser: [Min](https://minbrowser.org/)
+- CLI Text Editor: [Vim](https://wiki.archlinux.org/index.php/Vim)
+- GUI Text Editor: [Sublime Text 3 - Dev](https://aur.archlinux.org/packages/sublime-text-dev/)
+- Music Player: [MPD](https://wiki.archlinux.org/index.php/Music_Player_Daemon) & [ncmpcpp](https://wiki.archlinux.org/index.php/Ncmpcpp)
+- Online Music & Podcasts: [Spotify](https://wiki.archlinux.org/index.php/Spotify)
+- Video Player: [mpv](https://wiki.archlinux.org/index.php/Mpv)
+- Office Suite: [WPS Office](https://wiki.archlinux.org/index.php/WPS_Office)
+- BitTorrent Client: [rTorrents](https://wiki.archlinux.org/index.php/RTorrent)
+- Email Client: [mutt](https://wiki.archlinux.org/index.php/Mutt)
+
 ## Enjoy
 **I didn't mess up with the default keybindings. It's upto you.**
 **Thank you!**
